@@ -144,31 +144,6 @@ Meu objetivo é evoluir constantemente como desenvolvedor, adquirir experiência
 
 ---
 
-## 🐙 My Contributions
-
-<div align="center">
-
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/luizhenrickmarinho097-cloud/luizhenrickmarinho097-cloud/pacman-output/pacman-contribution-graph-dark.svg?game=pacman"
-    >
-
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/luizhenrickmarinho097-cloud/luizhenrickmarinho097-cloud/pacman-output/pacman-contribution-graph.svg?game=pacman"
-    >
-
-    <img
-      alt="Pac-Man contribution graph"
-      src="https://raw.githubusercontent.com/luizhenrickmarinho097-cloud/luizhenrickmarinho097-cloud/pacman-output/pacman-contribution-graph.svg?game=pacman"
-      width="100%"
-    >
-  </picture>
-
-</div>
-
----
 
 <!-- FOOTER -->
 
