@@ -23,8 +23,9 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=default&locale=en&hide_border=true
+          options: username=${{ github.repository_owner }}&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=true
           path: dist/stats.svg
+          token: ${{ secrets.GH_STATS_TOKEN }}
 
       - name: Push stats.svg to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
@@ -33,4 +34,3 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
