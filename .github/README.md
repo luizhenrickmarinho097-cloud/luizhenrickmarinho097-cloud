@@ -23,7 +23,7 @@
 
 ###
 
-<h5 data-importer="text" align="center">🎓 Estudante de Engenharia de Software |<br>💻 Desenvolvedor Full Stack em formação |<br>🐍 Foco atual em Python, JavaScript e Backend |<br>🚀 Apaixonado por tecnologia, aprendizado contínuo e resolução de problemas</h5>
+<h5 data-importer="text" align="center">🎓 Estudante de Engenharia de Software <br>💻 Desenvolvedor Full Stack em formação <br>🐍 Foco atual em Python, JavaScript e Backend <br>🚀 Apaixonado por tecnologia, aprendizado contínuo e resolução de problemas</h5>
 
 ###
 
