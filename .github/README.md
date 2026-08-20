@@ -57,10 +57,7 @@ Meu objetivo é evoluir constantemente como desenvolvedor, adquirir experiência
 
 <div align="center">
 
-  <img
-  src="(https://raw.githubusercontent.com/luizhenrickmarinho097-cloud/luizhenrickmarinho097-cloud/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=default&locale=en&hide_border=true&order=1" height="150" alt="stats graph)"
-  alt="GitHub Stats"
-/>
+  <img src="https://raw.githubusercontent.com/luizhenrickmarinho097-cloud/luizhenrickmarinho097-cloud/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=default&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
 
   <img
     src="https://raw.githubusercontent.com/luizhenrickmarinho097-cloud/luizhenrickmarinho097-cloud/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=true&order=2"
