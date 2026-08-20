@@ -30,7 +30,7 @@
 
 <br clear="both">
 
-
+---
 
 ## 👨‍💻 Sobre mim
 
