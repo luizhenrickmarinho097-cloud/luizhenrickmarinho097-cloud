@@ -17,7 +17,7 @@
     align="right"
   />
 
-  <h2>Olá! Eu sou Luiz Henrick 👋</h2>
+  <h3>Olá! Eu sou Luiz Henrick 👋</h3>
 
   <p>
     🎓 Estudante de Engenharia de Software<br>
